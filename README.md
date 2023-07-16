@@ -2,7 +2,7 @@
 
 # **🧑‍💻 PREP COURSE | HENRY 👩‍💻**
 
-## **📌 INTRODUCCIÓN**
+## **📌 INTRODUCCIONES**
 
 ¡Hola 😄! Bienvenid@ al Prep Course para la carrera de Desarrollo Web Full Stack.
 
